@@ -1,0 +1,2 @@
+# microservices_synergetic
+Сервис
