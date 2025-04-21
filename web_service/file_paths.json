@@ -1,0 +1,99 @@
+{
+  "files": [
+    {
+      "name": "Ozon_1",
+      "path": "\\\\xx.x.x.xx\\аналитики\\PBI\\ПРОДАЖИ\\OZON\\Spr_OZON.xlsx",
+      "segment": "online"
+    },
+    {
+      "name": "Ozon_2",
+      "path": "\\\\xx.x.x.xx\\аналитики\\PBI\\ПРОДАЖИ\\OZON\\Spr_OZON_2.xlsx",
+      "segment": "online"
+    },
+    {
+      "name": "Ozon_3",
+      "path": "\\\\xx.x.x.xx\\аналитики\\PBI\\ПРОДАЖИ\\OZON\\Spr_OZON_3.xlsx",
+      "segment": "online"
+    },
+    {
+      "name": "Ozon_4",
+      "path": "\\\\xx.x.x.xx\\аналитики\\PBI\\ПРОДАЖИ\\OZON\\Spr_OZON_4_окт23_значения.xlsx",
+      "segment": "online"
+    },
+    {
+      "name": "Ozon_5",
+      "path": "\\\\xx.x.x.xx\\аналитики\\PBI\\ПРОДАЖИ\\OZON\\Spr_OZON_5.xlsx",
+      "segment": "online"
+    },
+    {
+      "name": "WB_1",
+      "path": "\\\\xx.x.x.xx\\аналитики\\pbi\\продажи\\wb\\СправочникиПОЛН_1.xlsx",
+      "segment": "online"
+    },
+    {
+      "name": "WB_2",
+      "path": "\\\\xx.x.x.xx\\аналитики\\pbi\\продажи\\wb\\СправочникиПОЛН_2.xlsx",
+      "segment": "online"
+    },
+    {
+      "name": "WB_3",
+      "path": "\\\\xx.x.x.xx\\аналитики\\pbi\\продажи\\wb\\СправочникиПОЛН_3.xlsx",
+      "segment": "online"
+    },
+    {
+      "name": "WB_4",
+      "path": "\\\\xx.x.x.xx\\аналитики\\pbi\\продажи\\wb\\СправочникиПОЛН_4.xlsx",
+      "segment": "online"
+    },
+    {
+      "name": "WB_5",
+      "path": "\\\\xx.x.x.xx\\аналитики\\pbi\\продажи\\wb\\СправочникиПОЛН_5.xlsx",
+      "segment": "online"
+    },
+    {
+      "name": "X5",
+      "path": "\\\\xx.x.x.xx\\аналитики\\PBI\\ПРОДАЖИ\\X5\\СправочникиПОЛН X5.xlsx",
+      "segment": "offline"
+    },
+    {
+      "name": "Ашан",
+      "path": "\\\\xx.x.x.xx\\аналитики\\PBI\\ПРОДАЖИ\\Ашан\\СправочникиПОЛН.xlsx",
+      "segment": "offline"
+    },
+    {
+      "name": "ДМ",
+      "path": "\\\\xx.x.x.xx\\аналитики\\PBI\\ПРОДАЖИ\\ДМ\\СправочникиПОЛН.xlsx",
+      "segment": "offline"
+    },
+    {
+      "name": "Лента",
+      "path": "\\\\xx.x.x.xx\\аналитики\\PBI\\ПРОДАЖИ\\ЛЕНТА\\СправочникиПОЛН.xlsx",
+      "segment": "offline"
+    },
+    {
+      "name": "Магнит",
+      "path": "\\\\xx.x.x.xx\\аналитики\\PBI\\ПРОДАЖИ\\Магнит\\СправочникиПОЛН Магнит.xlsx",
+      "segment": "offline"
+    },
+    {
+      "name": "Метро",
+      "path": "\\\\xx.x.x.xx\\аналитики\\PBI\\ПРОДАЖИ\\МЕТРО\\СправочникиПОЛН.xlsx",
+      "segment": "offline"
+    },
+    {
+      "name": "Глобус",
+      "path": "\\\\xx.x.x.xx\\аналитики\\PBI\\ПРОДАЖИ\\GLOBUS\\СправочникиПОЛН.xlsx",
+      "segment": "offline"
+    },
+    {
+      "name": "Окей",
+      "path": "\\\\xx.x.x.xx\\аналитики\\PBI\\ПРОДАЖИ\\МЕТРО\\СправочникиПОЛН.xlsx",
+      "segment": "offline"
+    },
+    {
+      "name": "Дикси",
+      "path": "\\\\xx.x.x.xx\\аналитики\\PBI\\ПРОДАЖИ\\ОКЕЙ\\Окей_справочник.xlsx",
+      "segment": "offline"
+    }
+  ]
+  }
