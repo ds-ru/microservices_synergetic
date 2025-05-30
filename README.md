@@ -1,5 +1,9 @@
+<p align="center">
+  <img src="logo.jpg" alt="Synergetic Preview" width="400"/>
+</p>
 
-<h1><p align="Left"><strong>Разработано для компании Synergetic</strong></p></h1>
+<h1><p align="center"><strong>Разработано для компании Synergetic</strong></p></h1>
+
 
 # Multi-Service Dashboard
 
