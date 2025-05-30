@@ -11,7 +11,7 @@ from urllib.parse import unquote
 app = FastAPI()
 
 def main(min_row):
-    df = pd.read_excel(r"\\10.5.0.20\аналитики\PBI\ПРОДАЖИ\ДМ\СправочникиПОЛН.xlsx", sheet_name="SPR_DWH_SKU")
+    df = pd.read_excel(r"\\xx.xx.xx.xx\аналитики\PBI\ПРОДАЖИ\ДМ\СправочникиПОЛН.xlsx", sheet_name="SPR_DWH_SKU")
     df = df.iloc[int(min_row) - 1:].copy()
     df = df[(df['Уник. названия групп'] != 'Прочее') & (df['Код SKU'] != 'Общий итог')]
 
