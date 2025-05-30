@@ -1,5 +1,5 @@
-![repository-open-graph-template](https://github.com/user-attachments/assets/70e2eb36-caf4-44ea-a2c1-bdde02812284)
-<h1><p align="center"><strong>Разработано для компании Synergetic</strong></p></h1>
+
+<h1><p align="Left"><strong>Разработано для компании Synergetic</strong></p></h1>
 
 # Multi-Service Dashboard
 
