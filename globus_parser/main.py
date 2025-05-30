@@ -165,7 +165,7 @@ async def process_page(text: str, sku_id: str):
 
 
 async def main_async(min_row: int, batch_size: int = 10):
-    file_path = r"\\10.5.0.20\аналитики\PBI\ПРОДАЖИ\GLOBUS\СправочникиПОЛН.xlsx"
+    file_path = r"\\xx.xx.xx.xx\аналитики\PBI\ПРОДАЖИ\GLOBUS\СправочникиПОЛН.xlsx"
     df = pd.read_excel(file_path, sheet_name="SPR_DWH_SKU")
 
     df = df.iloc[int(min_row) - 1:].copy()
